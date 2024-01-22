@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an IT security and auditing technician. Constantly learning.
 
 <!--
 **Mithrandir4/Mithrandir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
